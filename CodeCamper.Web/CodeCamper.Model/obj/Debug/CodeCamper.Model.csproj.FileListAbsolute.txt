@@ -1,0 +1,4 @@
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Model\bin\Debug\CodeCamper.Model.dll
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Model\bin\Debug\CodeCamper.Model.pdb
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Model\obj\Debug\CodeCamper.Model.dll
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Model\obj\Debug\CodeCamper.Model.pdb
