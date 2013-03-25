@@ -72,3 +72,5 @@ C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\bin\zh-Hant\System.
 C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\obj\Debug\CodeCamper.Web.csprojResolveAssemblyReference.cache
 C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\obj\Debug\CodeCamper.Web.dll
 C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\obj\Debug\CodeCamper.Web.pdb
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\bin\CodeCamper.Data.Contracts.dll
+C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Web\bin\CodeCamper.Data.Contracts.pdb

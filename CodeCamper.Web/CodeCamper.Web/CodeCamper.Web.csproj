@@ -160,8 +160,14 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\ApiBaseController.cs" />
+    <Compile Include="Controllers\AttendanceController.cs" />
+    <Compile Include="Controllers\FavoritesController.cs" />
+    <Compile Include="Controllers\LookupsController.cs" />
+    <Compile Include="Controllers\PersonsController.cs" />
+    <Compile Include="Controllers\SessionBriefsController.cs" />
+    <Compile Include="Controllers\SessionsController.cs" />
+    <Compile Include="Controllers\SpeakersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -297,6 +303,10 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CodeCamper.Data.Contracts\CodeCamper.Data.Contracts.csproj">
+      <Project>{99a79255-7645-40af-9c46-96b4f6e04142}</Project>
+      <Name>CodeCamper.Data.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CodeCamper.Data\CodeCamper.Data.csproj">
       <Project>{9ccec598-df54-492a-9e28-3e427badbb76}</Project>
       <Name>CodeCamper.Data</Name>
