@@ -1,6 +1,0 @@
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.dll
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Data.Contracts.pdb
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.dll
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\obj\Debug\CodeCamper.Data.Contracts.pdb
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.dll
-C:\projects\Sandbox\spa\source\CodeCamper.Web\CodeCamper.Data.Contracts\bin\Debug\CodeCamper.Model.pdb
